@@ -1,0 +1,4 @@
+json 配置文件
+wxml -> html
+wxss -> css
+js -> 脚本逻辑文件
