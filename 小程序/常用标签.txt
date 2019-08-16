@@ -1,0 +1,12 @@
+{{}}
+
+AppData:看数据源
+
+wx:for  wx:key
+默认 index, i
+tem
+
+wx:if 
+wx:else
+wx:hidden
+(频繁切换的情景下，用hidden更好)
