@@ -1,0 +1,31 @@
+Good morning, everyone!
+I'm honored to be here to make a presentation about 
+Business Intelligence.
+Firstly,i introduce the company GOME.
+GOME is a retail chain of appliances in mainland China.
+In 2013, the total number of Gome stores reached 1,063,covering
+267 cities across the country.
+In April 2011, Gome took the lead in innovating the e-commerce operation 
+model of “B2C+ physical store” integration. 
+In August 2016, Gome ranked 104th among the 
+"2016 China Top 500 Enterprises".
+
+Secondly,the GOME strategy
+
+1.Expand market share and strengthen market penetration.
+2.Online and offline same price strategy. (retaining members to increase adhesion and reduce offline costs)
+3.The precise positioning of the Gome offline store.
+4.Accelerate market response and improve decision-making efficiency.
+5.Improve operational efficiency and control costs.
+6.Improve customer loyalty and satisfaction.
+
+Thirdly, How BI works in the Company GOME？
+1.precise positioning of offline store.
+The manager can make scientific decisions by BI through analysing data and 
+the offline retail can gain profit in a few months.
+
+2.integrate all aspeacts of the company's operational level into about
+a unified information platform, such as procurement sales, finance,
+supply chain,production cycle management.
+
+
