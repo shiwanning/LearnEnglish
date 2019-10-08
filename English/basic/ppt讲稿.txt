@@ -1,6 +1,7 @@
 Good morning, everyone!
 I'm honored to be here to make a presentation about 
 Business Intelligence.
+The content includes four parts.
 Firstly,i introduce the company GOME.
 GOME is a retail chain of appliances in mainland China.
 In 2013, the total number of Gome stores reached 1,063,covering
@@ -28,4 +29,6 @@ the offline retail can gain profit in a few months.
 a unified information platform, such as procurement sales, finance,
 supply chain,production cycle management.
 
+
+Combining reports and charts, we can see the index analysis of each factor or reflect the company's current operation status through charts, such as line charts.
 
