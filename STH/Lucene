@@ -1,0 +1,8 @@
+1.Maven导入相关依赖
+2.编写Lucene工具类
+（1）本地存储生成的索引
+（2）添加索引
+键值对
+Index Stringfield 
+查询如果需要将记录显示出来的就存进去，内容
+Textfield(用于查询，Field.Store.Yes->数据存进索引，不易内容过长)

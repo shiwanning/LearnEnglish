@@ -1,0 +1,27 @@
+用处：
+1.登录的认证
+2.对指定角色的验证
+3.对url的验证
+
+
+步骤
+1.创建Shiro自定义域，继承AuthorizingRealm
+(1)验证
+(2)授权
+2.配置shiro过滤器
+(1)身份认证，权限认证失败页面
+(2)过滤链
+3.Shiro标签
+
+匿名访问 -> /** = anon
+身份认证 -> /admin* = auth
+
+url认证 
+/** roles=[teacher]
+/** permisson=[user: create]
+
+MD5加密
+
+封装数据到Shiro Token，执行login() -> 验证 -> 授权
+
+

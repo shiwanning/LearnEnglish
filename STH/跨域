@@ -1,0 +1,13 @@
+https://crossoverjie.top/2016/10/18/SSM6/
+
+前后端分离
+
+JSONP（只支持GET请求方式）
+
+前端引用<script><img><iframe>标签
+Jquery封装请求
+callBack
+
+
+后端引用jackson  jsonpobject构造方法（callback， obj）
+
